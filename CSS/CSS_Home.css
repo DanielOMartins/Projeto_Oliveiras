@@ -1,0 +1,147 @@
+/*Geral */
+body{
+	font-family: Times, "Times New Roman", Georgia, serif;
+	background: #d6d6d6;
+}
+h1{
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	font-size: 50px; 
+}
+a{
+	text-decoration: none;
+	color: black;
+	padding: 10px;
+	font-size: 20px;
+}
+a:hover{
+	color: #6ABA74;
+}
+a:active{
+	color: #6ABA74;
+}
+p{
+	font-size: 20px;
+}
+
+/*ID's */
+#Menu{
+	margin: 20px auto;
+	width: 800px;
+}
+#Imagem{
+	position: relative;
+	left: 670px;
+	top: -100px;
+	width: 200px;
+}
+#Conteudo{
+	position: relative;
+	top: -250px;
+	width: 560px;
+	height: 350px;
+	margin: auto;
+	padding:20px; 
+}
+#Rodape{
+	font-style: bold;
+	margin: 30px auto;
+	position: relative;
+	left: 720px;
+	top: -350px;
+}
+#Instagram{
+	background-color: #6ABA74;
+	width: 150px;
+	height: 100px;
+	padding-left: 70px;
+	margin: auto;
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+#Facebook{
+	background-color: #6ABA74;
+	width: 150px;
+	height: 100px;
+	padding-left: 70px;
+	margin: auto;
+	position: relative;
+	top: 35px;
+	left: 10px;
+}
+#Telefone{
+	background-color: #6ABA74;
+	width: 150px;
+	height: 100px;
+	padding-left: 70px;
+	margin: auto;
+	position: relative;
+	top: 60px;
+	left: 10px;
+}
+
+
+
+/*Classes */
+.link{
+	position: relative;
+	left: 550px;
+	top: -75px;		
+}
+.correcao{
+	position: relative;
+	top: -10px;
+}
+.backgroundColor{
+	background-color: #B5B4B4;
+	width: 800px;
+	height: 150px;
+	position: relative;
+	left: -55px;
+	top: -10px;
+	padding: 1px 10px 15px 15px;
+}
+.cor{
+	background-color: #6ABA74;
+	height: 170px;
+	width: 790px;
+	position: relative;
+	left: -60px;
+}
+.linha{
+	color: #6ABA74;
+	position: relative;
+	top: -40px;
+}
+.Back{
+	background-color: #B5B4B4;
+	height: 100px;
+	width: 220px;
+	position: relative;
+	left: -80px;
+	top: -10px;
+}
+.PosiName{
+	position: relative;
+	left: 55px;
+	top: 5px;
+}
+.PosiLink{
+	position: relative;
+	left: 30px;
+}
+.PosiTele{
+	position: relative;
+	left: 70px;
+	top: 5px;
+}
+.PosiLinkTele{
+	font-size: 20px;
+	position: relative;
+	left: 40px;
+}
+.voltar{
+	position: relative;
+	left: 820px;
+	top: 100px;
+}
